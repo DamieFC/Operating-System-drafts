@@ -1,0 +1,29 @@
+Platypus OS Languages
+
+C/C++
+Java
+Python
+Shell
+Assembly (Maybe? Unsure.)
+Makefile (Maybe? Unsure.)
+
+Core
+
+Linux Kernel (see Linux 5.8.9.tar.xz, or the folder named Linux 5.8.9 😳),
+Linux kernel edited to the Platypus OS
+
+Internet Browser
+
+Firefox
+Chromium
+DuckDuckGo
+Tor
+
+Basic apps
+
+*those internet browsers, but probably just Firefox, Tor, and Firefox Dev edition
+Nmap
+Hashcat
+Metasploit
+(Productivity apps, e.g google docs sheets and slides)
+Leafpad/Notepad++
