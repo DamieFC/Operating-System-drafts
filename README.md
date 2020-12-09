@@ -1,5 +1,5 @@
 # Operating system
-ok, so this is all a draft, if you install it and it crashes, lemme warn you now, if it crashes, it ain't my fault.
+Ok, so this is all a draft, if you install it and it crashes, lemme warn you now, if it crashes, it ain't my fault.
 # Rules
 You can add files, edit files, do WHATEVER, as long as it's helpful.
 # Credits
