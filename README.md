@@ -1,3 +1,8 @@
+# Attention: this is not getting updated. If you want to contribute, go to github.com/Playtpus-Tech/, because all development for this is there, plus other cool stuff.
+
+
+
+
 # Operating system
 Ok, so this is all a draft, if you install it and it crashes, lemme warn you now, if it crashes, it ain't my fault.
 # Rules
